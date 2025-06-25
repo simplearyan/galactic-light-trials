@@ -71,13 +71,13 @@ function init() {
   particles = [];
 
   for (let i = 0; i < particleCount; i++) {
-    var canvasWidth = canvas.width + 200; // 900 for mobile
+    var canvasWidth = canvas.width + 300; // 900 for mobile
 
     if (canvas.width < 990) {
       canvasWidth = canvas.width + 900; // 300 for mobile
     }
 
-    const canvasHeight = canvas.height + 200; // 900 for desktop
+    const canvasHeight = canvas.height + 300; // 900 for desktop
 
     if (canvas.width < 990) {
       canvasHeight = canvas.height + 900; // 300 for mobile
