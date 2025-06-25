@@ -77,7 +77,7 @@ function init() {
       canvasWidth = canvas.width + 900; // 300 for mobile
     }
 
-    const canvasHeight = canvas.height + 300; // 900 for desktop
+    var canvasHeight = canvas.height + 300; // 900 for desktop
 
     if (canvas.width < 990) {
       canvasHeight = canvas.height + 900; // 300 for mobile
