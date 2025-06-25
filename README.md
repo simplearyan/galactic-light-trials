@@ -1,6 +1,6 @@
 # Galactic Light Trails 🌌
 
-![Galactic Light Trails](https://raw.githubusercontent.com/simplearyan/galactic-light-trails/main/assets/Screenshot.png)
+![Galactic Light Trails](https://raw.githubusercontent.com/simplearyan/galactic-light-trials/main/assets/Screenshot.png)
 
 ## Description 📒
 
